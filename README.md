@@ -1,4 +1,4 @@
-# Car Price Prediction App 🚗
+# Car Price Prediction App 
 
 This repository hosts the **Car Price Prediction App**, a web application built with Streamlit that predicts the price of a car based on various features such as engine displacement, fuel type, safety features, and more. The app uses a pre-trained Gradient Boosting model to deliver accurate predictions. The model was trained and pickled prior to the development of this Streamlit app.
 
